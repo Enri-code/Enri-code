@@ -2,7 +2,7 @@
 - 👀 I love to solve problems. Knowledge is what drives me and the only way to do that is to try. 
 - 📫 You can reach me on my:
 - Email: [onyeuloeric@gmail.com](mailto:onyeuloeric@gmail.com)
-- LinkedIn: [enri-code](https://www.linkedin.com/in/enri-code)
+- LinkedIn: [linkedin.com/in/enri-code](https://www.linkedin.com/in/enri-code)
 - Instagram: [@enri_code](https://www.instagram.com/enri_code/)
 <!---
 Enri-code/Enri-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
