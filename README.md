@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eric Onyeulo, but I'm usually called Rico. 
-- 👀 I love to solve problems. Knowledge is what drives me and the only way to do that is to try. 
+- 👀 I love to solve problems. Knowledge is what drives me and the only way to know is to try. 
 - 📫 You can reach me on my:
 - Email: [onyeuloeric@gmail.com](mailto:onyeuloeric@gmail.com)
 - LinkedIn: [linkedin.com/in/enri-code](https://www.linkedin.com/in/enri-code)
